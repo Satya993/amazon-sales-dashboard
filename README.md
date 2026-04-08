@@ -4,40 +4,40 @@
 ![DAX](https://img.shields.io/badge/Language-DAX-blue)
 ![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Stars](https://img.shields.io/github/stars/Satya993/amazon-sales-dashboard?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/Satya993/amazon-sales-dashboard?style=social)
 
 ---
 
 ## 🚀 Project Overview
 Developed an interactive **Amazon Sales Dashboard** using Power BI to analyze **11.58M+ sales data**, delivering actionable insights into revenue trends, product performance, fulfillment efficiency, and delivery operations.
 
-This project highlights expertise in **data analytics, business intelligence, and visualization**.
+This project demonstrates strong expertise in **data analytics, business intelligence, and data storytelling**.
 
 ---
 
 ## 1️⃣ 📝 Description
-The dashboard provides a comprehensive analysis of e-commerce sales by visualizing key metrics such as total revenue, order status, category performance, delivery insights, and fulfillment operations.
+The **Amazon Sales Dashboard** is a business intelligence solution that transforms raw e-commerce data into meaningful insights through interactive visualizations. It provides a comprehensive view of sales performance, order status, category trends, delivery insights, and fulfillment analysis.
 
 ---
 
 ## 2️⃣ 🎯 Purpose
-- Enable **data-driven decision-making**  
-- Identify **top-performing products and categories**  
-- Monitor **sales trends and operational efficiency**  
-- Improve **logistics and fulfillment visibility**  
+- Monitor overall sales performance 📈  
+- Identify top-performing categories and products 📊  
+- Analyze delivery and fulfillment efficiency 🚚  
+- Enable data-driven business decisions 🎯  
 
 ---
 
 ## 3️⃣ 🛠️ Tech Stack
 - **Power BI** – Dashboard development & visualization  
-- **Power Query** – Data transformation  
-- **DAX** – KPI creation and calculations  
-- **Excel / CSV** – Data handling  
+- **Power Query** – Data cleaning and transformation  
+- **DAX (Data Analysis Expressions)** – KPIs and calculations  
+- **Excel / CSV** – Data sources  
 
 ---
 
 ## 4️⃣ 📂 Data Sources
-- Amazon sales dataset (CSV/Excel)  
+- Amazon sales dataset (CSV/Excel format)  
 - Includes:
   - Order ID  
   - Product category  
@@ -51,7 +51,7 @@ The dashboard provides a comprehensive analysis of e-commerce sales by visualizi
 ## 5️⃣ ⭐ Feature Highlights
 - 📈 Sales KPI tracking (**11.58M+ revenue analyzed**)  
 - 📊 Category-wise performance insights  
-- 🧾 Order status distribution (Shipped, Cancelled, Pending)  
+- 🧾 Order status distribution  
 - 🚚 Delivery partner performance analysis  
 - 📦 Fulfillment comparison (Amazon vs Merchant)  
 - 📉 Product size distribution  
@@ -64,31 +64,40 @@ The dashboard provides a comprehensive analysis of e-commerce sales by visualizi
 
 ---
 
+## 🎥 Dashboard Demo (GIF)
+> ⚡ *Add a screen recording GIF here to impress recruiters*
+
+![Demo GIF](your-gif-link-here)
+
+---
+
+## 🔍 Key Insights Derived
+- 📊 A few product categories contribute to the majority of revenue (Pareto trend)  
+- 🚚 Certain delivery partners show higher efficiency and reliability  
+- 📦 Fulfillment by Amazon outperforms merchant fulfillment in consistency  
+- ❌ Noticeable percentage of cancelled orders impacts overall revenue  
+- 📈 Sales distribution varies significantly across product sizes  
+
+---
+
 ## 💼 Business Impact
-- Transformed raw data into **actionable business insights**  
-- Improved visibility into **sales, logistics, and fulfillment operations**  
-- Demonstrated ability to solve **real-world e-commerce analytics problems**  
-- Showcased strong skills in **data storytelling and dashboard design**  
+- Converted raw data into **actionable insights**  
+- Improved visibility into **sales and logistics performance**  
+- Enabled better **inventory and fulfillment decisions**  
+- Simulated real-world **e-commerce analytics scenarios**  
 
 ---
 
-## ▶️ How to Use
-1. Download the `.pbit` file from the repository  
-2. Open in **Power BI Desktop**  
-3. Load dataset when prompted  
-4. Explore dashboard using filters and visuals  
+## 🧠 What I Learned
+- Designing **interactive and user-friendly dashboards**  
+- Writing efficient **DAX measures for KPIs**  
+- Performing **data cleaning and transformation using Power Query**  
+- Translating business problems into **data-driven solutions**  
+- Communicating insights through **visual storytelling**  
 
 ---
 
-## 🔗 Project Link
-👉 https://github.com/Satya993/amazon-sales-dashboard  
-
----
-
-## 📌 Why This Project Stands Out
-✔ Handles real-world scale data (**11M+ sales**)  
-✔ Focuses on business impact, not just visuals  
-✔ Demonstrates end-to-end BI workflow (data → insights → decisions)  
-✔ Recruiter-friendly project with measurable outcomes  
-
----
+## ▶️ How to Run
+1. Clone the repository  
+```bash
+git clone https://github.com/Satya993/amazon-sales-dashboard.git
